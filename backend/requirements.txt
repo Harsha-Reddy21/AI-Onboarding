@@ -1,0 +1,21 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+aiofiles
+httpx
+python-multipart
+sse-starlette
+
+# AI SDK - Google Gemini
+google-generativeai
+
+# Git operations
+GitPython
+
+# Video processing
+ffmpeg-python
+
+# Utilities
+python-dateutil
+
